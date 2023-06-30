@@ -1,0 +1,5 @@
+Favorite Film: "Sea Inside",
+FavoriteSeries: "Friends",
+Favorite Food: Khinkali, Pho Bo soup, pasta,
+Favorite Season: spring, summer,
+Country: the USA.
