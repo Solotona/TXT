@@ -1,0 +1,5 @@
+cat >> new.json
+Name: Natalia,
+Last Name: Tokareva,
+Quantity of Pet: 1,
+Salary Expected: 500 USD.
